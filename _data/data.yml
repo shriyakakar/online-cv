@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -36,33 +36,6 @@ career-profile:
       including Python, R, SQL, and Excel data sources. Bringing forth the
       ability to synthesize quantitative information and interact
       effectively with colleagues and clients.
-education:
-    - degree: Master of Analytics
-      university: RMIT University
-      city: Melbourne
-      time: Jul, 2019 - Jun, 2021
-      details: |
-        GPA: 3.80/4.00
-          - Became a part of Cisco MentorMe Program to be mentored by one
-          of the leading Solutions Architect and interacted with Lead
-          Strategy Consultants as well as APAC Director at Cisco.
-          - One of the two students in Data Analytic Student Integration
-          Program with Melbourne Renegades to understand the evolving
-          applications of Sports Analytic.
-          - Scored 4 GPA in 2nd semester with HD in each course unit.
-          - Worked on diverse analytical projects - Supermarket War,
-          Bayesian Housing Price Prediction, Machine Learning
-          Classification of HR Attrition Rate, Logistic Regression Analysis
-          on Solar Flare and many more.
-    - degree: Bachelor of Management Studies (Major in Finance)
-      university: DDUC, University of Delhi
-      city: New Delhi, India
-      time: Jul,2015 - Jun,2018
-      details: |
-        GPA: 8.30/10.00
-          - Topper of Semester 1, 2018 with HD in all course units.
-          - Awarded 'Star of B.M.S.' for leadership in clubs and excellent
-          academic record.
 experiences:
     - role: Data Science Intern
       time: Dec, 2020 - Present
@@ -114,7 +87,7 @@ experiences:
           AG) in their respective subsidiaries
     - role: Data Researcher (Associate Analyst)
       time: Jun,2020 - Oct,2020
-      company: DataDisca, Melbourne
+      company: S&P Global MI, Gurugram, India
       details: |
           - Automated data validation process of more than 200 companies, resulting
           in reduction of 85% of manual hours utilised using BluePrism and SQL.  
@@ -122,7 +95,42 @@ experiences:
           reports using MS Excel, SQL, Power BI.
           - Worked on client queries and business cases on in-built financial models
           to assess the ownership profit of parent companies (like HSBC and Siemens
-          AG) in their respective subsidiaries
+          AG) in their respective subsidiaries.
+    - role: Finance Intern
+      time: Jun,2017 - Jul,2017
+      company: Radico Khaitan Ltd., New Delhi, India
+      details: |
+          - Responsible for analysing GST’s impact on company’s profit and shares
+          which was then used for internal training of employees on the new
+          taxation system and its impact.
+          - Applied financial evaluation techniques to analyse areas of losses,
+          to combat difference in taxation system’s impact on future income streams
+          using SAS.
+education:
+    - degree: Master of Analytics
+      university: RMIT University
+      city: Melbourne
+      time: Jul, 2019 - Jun, 2021
+      details: |
+        GPA: 3.80/4.00
+          - Became a part of Cisco MentorMe Program to be mentored by one
+          of the leading Solutions Architect and interacted with Lead
+          Strategy Consultants as well as APAC Director at Cisco.
+          - One of the two students in Data Analytic Student Integration
+          Program with Melbourne Renegades to understand the evolving
+          applications of Sports Analytic.
+          - Scored 4 GPA in 2nd semester with HD in each course unit.
+          - Worked on diverse analytical projects - Bayesian Housing Price
+          on Solar Flare and many more.
+    - degree: Bachelor of Management Studies (Major in Finance)
+      university: DDUC, University of Delhi
+      city: New Delhi, India
+      time: Jul,2015 - Jun,2018
+      details: |
+        GPA: 8.30/10.00
+          - Topper of Semester 1, 2018 with HD in all course units.
+          - Awarded 'Star of B.M.S.' for leadership in clubs and excellent
+          academic record.
 projects:
     title: Projects
     intro: >
@@ -150,48 +158,29 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Tableau
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: R
+        level: 75%
 
-      - name: HTML5 & CSS
+      - name: MS Excel
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Dataiku
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: SQL
+        level: 80%
+        
+      - name: BluePrism
         level: 60%
 
 footer: >
