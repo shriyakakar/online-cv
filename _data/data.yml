@@ -9,113 +9,120 @@ sidebar:
     # Profile information
     name: Shriya Kakar
     tagline: Data Analyst
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 0.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: shriyakakar@gmail.com
+    phone: 0424408540
+    linkedin: https://www.linkedin.com/in/shriya-kakar/
+    adress: Carlton, VIC 
 
     languages:
       - idiom: English
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Basic
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - idiom: Hindi
+        level: Native
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced and dedicated Data Analyst with experience of identifying
+      efficiencies and problem areas within data streams, while communicating
+      needs for projects. Adept at analysing data from multiple data streams,
+      including Python, R, SQL, and Excel data sources. Bringing forth the
+      ability to synthesize quantitative information and interact
+      effectively with colleagues and clients.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Analytics
+      university: RMIT University
+      city: Melbourne
+      time: Jul, 2019 - Jun, 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        GPA: 3.80/4.00
+          - Became a part of Cisco MentorMe Program to be mentored by one
+          of the leading Solutions Architect and interacted with Lead
+          Strategy Consultants as well as APAC Director at Cisco.
+          - One of the two students in Data Analytic Student Integration
+          Program with Melbourne Renegades to understand the evolving
+          applications of Sports Analytic.
+          - Scored 4 GPA in 2nd semester with HD in each course unit.
+          - Worked on diverse analytical projects - Supermarket War,
+          Bayesian Housing Price Prediction, Machine Learning
+          Classification of HR Attrition Rate, Logistic Regression Analysis
+          on Solar Flare and many more.
+    - degree: Bachelor of Management Studies (Major in Finance)
+      university: DDUC, University of Delhi
+      city: New Delhi, India
+      time: Jul,2015 - Jun,2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        GPA: 8.30/10.00
+          - Topper of Semester 1, 2018 with HD in all course units.
+          - Awarded 'Star of B.M.S.' for leadership in clubs and excellent
+          academic record.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Science Intern
+      time: Dec, 2020 - Present
+      company: Startup Genome, Remote (reporting to Berlin and India Team)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Data Lag Analysis: Initiated Data Lag Analysis on various startup
+          information websites like Crunchbase and Pitchbook to analyse the
+          lag in the funding and exit deals published on the website for the
+          last 5 years (2016-2020).  The analysis resulted in analytical
+          dashboard on Tableau showing funding/exit data lag by year in various
+          countries which is now accounted for in the process of funding/exit
+          metrics. 
+          - Primary owner of the process to integrate the survey datasets from
+          Qualtrics to calculate metrics and create insights to the dynamic trends
+          in startup ecosystems liek Ethiopia and Manilla using SQL and Python
+          coding environment on Dataiku.
+          - Work with meta data set to deliver funding and exit metrics in
+          accordance with ad-hoc client request and create interactive
+          visualizations using Tableau.
+          - Worked on Quality Control checks of the data to be analysed
+          and released in GSER 2021 analysis reports using control charts.
+    - role: Data Analyst Intern
+      time: Mar,2021 - Present
+      company: Rexergy, Melbourne
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        WIL Project
+          - Performed data preprocessing and exploration on a time-series data
+          of electricity consumption with 30 mins time-stamp using Python
+          libraries like bokeh. 
+          - Modeled data using autoregressive markov chains to predict density
+          estimate of electricity usage in consecutive time stamp. 
+    - role: Trainee Data Scientist
+      time: Aug,2018 - Jun,2019
+      company: S&P Global MI, New Delhi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Responsible for developing machine learning frameworks on Python on
+          different datasets (like Scikit-Learning, TensorFlow)
+          - Learning basic Linux virtual machines and bash scripting
+    - role: Data Researcher (Associate Analyst)
+      time: Jun,2020 - Oct,2020
+      company: DataDisca, Melbourne
+      details: |
+          - Automated data validation process of more than 200 companies, resulting
+          in reduction of 85% of manual hours utilised using BluePrism and SQL.  
+          - BAU involved internal data research and quality tests based on company
+          reports using MS Excel, SQL, Power BI.
+          - Worked on client queries and business cases on in-built financial models
+          to assess the ownership profit of parent companies (like HSBC and Siemens
+          AG) in their respective subsidiaries
+    - role: Data Researcher (Associate Analyst)
+      time: Jun,2020 - Oct,2020
+      company: DataDisca, Melbourne
+      details: |
+          - Automated data validation process of more than 200 companies, resulting
+          in reduction of 85% of manual hours utilised using BluePrism and SQL.  
+          - BAU involved internal data research and quality tests based on company
+          reports using MS Excel, SQL, Power BI.
+          - Worked on client queries and business cases on in-built financial models
+          to assess the ownership profit of parent companies (like HSBC and Siemens
+          AG) in their respective subsidiaries
 projects:
     title: Projects
     intro: >
