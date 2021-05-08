@@ -68,25 +68,14 @@ experiences:
           - Modeled data using autoregressive markov chains to predict density
           estimate of electricity usage in consecutive time stamp. 
     - role: Trainee Data Scientist
-      time: Aug,2018 - Jun,2019
+      time: Jun,2020 - Oct,2020
       company: S&P Global MI, New Delhi
       details: |
           - Responsible for developing machine learning frameworks on Python on
           different datasets (like Scikit-Learning, TensorFlow)
           - Learning basic Linux virtual machines and bash scripting
     - role: Data Researcher (Associate Analyst)
-      time: Jun,2020 - Oct,2020
-      company: DataDisca, Melbourne
-      details: |
-          - Automated data validation process of more than 200 companies, resulting
-          in reduction of 85% of manual hours utilised using BluePrism and SQL.  
-          - BAU involved internal data research and quality tests based on company
-          reports using MS Excel, SQL, Power BI.
-          - Worked on client queries and business cases on in-built financial models
-          to assess the ownership profit of parent companies (like HSBC and Siemens
-          AG) in their respective subsidiaries
-    - role: Data Researcher (Associate Analyst)
-      time: Jun,2020 - Oct,2020
+      time: Aug,2018 - Jun,2019
       company: S&P Global MI, Gurugram, India
       details: |
           - Automated data validation process of more than 200 companies, resulting
