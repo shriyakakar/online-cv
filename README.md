@@ -1,5 +1,5 @@
 <a href="https://shriyakakar.github.io/online-cv">
-<img src="0.jpeg" height="20" alt="Shriya Kakar" >
+<img src="https://drive.google.com/file/d/1BxsqCqWU1-1OwC9B3o9590LXC6K1uP-r/view?usp=sharing" height="20" alt="Shriya Kakar" >
 </a>
 
 # Orbit
