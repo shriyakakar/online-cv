@@ -1,5 +1,5 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+<a href="https://shriyakakar.github.io/online-cv">
+<img src="0.jpeg" height="20" alt="Shriya Kakar" >
 </a>
 
 # Orbit
