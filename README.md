@@ -2,7 +2,7 @@
 <img src="https://drive.google.com/file/d/1BxsqCqWU1-1OwC9B3o9590LXC6K1uP-r/view?usp=sharing" height="20" alt="Shriya Kakar" >
 </a>
 
-# Orbit
+# Shriya Kakar
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
