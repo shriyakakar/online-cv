@@ -123,30 +123,15 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have worked on diverse range of projects as part of my Masters and internship, ranging from Machine Learning Projects as well as Visualisation Projects. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Visualisation on World Most Admired Companies in 2018
+        link: "https://rpubs.com/Shriyakakar/612873"
+        tagline: "An effective and easily understandable visualisation on World's Most Admired Companies in 2018."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Visualisation on Impact of Brexit on Britain Economy
+        link: "https://youtu.be/BEc_hjZrXis"
+        tagline: "An interactive visualisation depciting impact of Brexit on Britain Economy"
 skills:
     title: Skills &amp; Proficiency
 
