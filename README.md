@@ -3,8 +3,7 @@
 </a>
 
 # Shriya Kakar
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
+> Visit [My Digital Resume](https://shriyakakar.github.io/online-cv/). 
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
@@ -23,9 +22,18 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
   </tr>
 </table>
 
-## Installation
+## Work Experience
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+### Data Analyst Intern 
+#### Rexergy | Mar, 2021 - Present
+
+* Data Lag Analysis: Initiated Data Lag Analysis on various startup
+  information websites like Crunchbase and Pitchbook to analyse the
+  lag in the funding and exit deals published on the website for the
+  last 5 years (2016-2020).  The analysis resulted in analytical
+  dashboard on Tableau showing funding/exit data lag by year in various
+  countries which is now accounted for in the process of funding/exit
+  metrics. 
 * Delete the `gh-pages` branch
 * Re-create the `gh-pages` branch
 * Go to settings and set Github Pages source as master.
