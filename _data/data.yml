@@ -37,22 +37,10 @@ experiences:
       time: Dec, 2020 - Present
       company: Startup Genome, Remote (reporting to Berlin and India Team)
       details: |
-          - Data Lag Analysis: Initiated Data Lag Analysis on various startup
-          information websites like Crunchbase and Pitchbook to analyse the
-          lag in the funding and exit deals published on the website for the
-          last 5 years (2016-2020).  The analysis resulted in analytical
-          dashboard on Tableau showing funding/exit data lag by year in various
-          countries which is now accounted for in the process of funding/exit
-          metrics. 
-          - Primary owner of the process to integrate the survey datasets from
-          Qualtrics to calculate metrics and create insights to the dynamic trends
-          in startup ecosystems liek Ethiopia and Manilla using SQL and Python
-          coding environment on Dataiku.
-          - Work with meta data set to deliver funding and exit metrics in
-          accordance with ad-hoc client request and create interactive
-          visualizations using Tableau.
-          - Worked on Quality Control checks of the data to be analysed
-          and released in GSER 2021 analysis reports using control charts.
+          - Data Lag Analysis - Initiated Data Lag Analysis on data from sources like Crunchbase, Pitchbook & Dealroom to analyse the lag in the funding and exit deals published for the 2016-2020 period.  The analysis was visualized in an analytical Tableau dashboard showing funding/exit data lag by year in various countries. The analysis helped in making the funding/exit metrics more accurate. 
+          - Founder Survey Analysis - Owner of the process to analyze responses from the Founder Survey. Worked on a dataset of 30K+ responses to calculate metrics and create insights for startup ecosystems like Ethiopia & Manilla among others. This was achieved using SQL and Python coding environment on Dataiku.
+          - Work with meta data set to deliver funding and exit metrics in accordance with ad-hoc client request and create interactive visualizations using Tableau.
+          - Optimise Survey pipelines by running quality assurance to ensure reliability of metrics accuracy
     - role: Data Analyst Intern
       time: Mar,2021 - Present
       company: Rexergy, Melbourne
