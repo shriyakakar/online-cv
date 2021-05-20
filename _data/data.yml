@@ -51,7 +51,8 @@ experiences:
           - Extracted and pre-processed time-series data on MS Excel (Intermediate) from external sources like Crunchbase, Pitchbook to analyse the funding and exit data lag published for 5 years.
           - Explored and analysed the data using Tableau Story to understand the ecosystems projecting considerable degree of data lag. 
           - Resulted in 30% increased accuracy of financial metrics by considering the percentage of data missing for a particular year.
-         Founder Survey Analysis – Product Owner (Data Science)
+      details: |
+          Founder Survey Analysis – Product Owner (Data Science)
          - Owner of the process to analyze responses from the Founder Survey using a combination of Excel, Python and SQL on Dataiku
          - Refined the messy pipeline to prepare and analyse dataset of 30K+ responses and calculate metrics to create insights for startup ecosystems like Ethiopia & Manilla among others.
          - Run quality assurance checks to increase 40% reliability of metrics.
